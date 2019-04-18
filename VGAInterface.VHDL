@@ -3,6 +3,7 @@
 -- VGA Lab 6
 -- This code was written for a computer monitor with a 1280 by 1024 resolution (60 fps)
 ----------------------------------------------------------------------------------
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL; 
 use IEEE.STD_LOGIC_UNSIGNED.ALL;
